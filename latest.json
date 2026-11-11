@@ -1,0 +1,17 @@
+{
+  "version": "0.1.3",
+  "publishedUtc": "2026-11-11T17:14:08Z",
+  "notes": "",
+  "packages": {
+    "perUser": {
+      "url": "https://raw.githubusercontent.com/Amspec-Group-Development/amspec-sftp-manager-updates/main/AmSpec-SFTP-Manager-0.1.3-x64-user.msi",
+      "sha256": "BA230FA4C0D2A86A5B676199D21AFBDFD0FC23FBA61207C550E821B36F2C4F0E",
+      "sizeBytes": 59314176
+    },
+    "perMachine": {
+      "url": "https://raw.githubusercontent.com/Amspec-Group-Development/amspec-sftp-manager-updates/main/AmSpec-SFTP-Manager-0.1.3-x64.msi",
+      "sha256": "93DAF8EB83E95CEF4CCA4D268B6239E240D47E0E8EF2C3B9CA5ED9804438848C",
+      "sizeBytes": 59314176
+    }
+  }
+}
